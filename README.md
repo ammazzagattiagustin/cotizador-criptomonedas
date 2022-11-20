@@ -6,4 +6,8 @@
 
 ### - Custom Hooks
 
-### - Api
+### - Validaciones
+
+### - API
+
+### - Spinkit (Spinner)
